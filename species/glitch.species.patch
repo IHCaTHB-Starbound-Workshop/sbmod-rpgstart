@@ -1,0 +1,11 @@
+[
+{"op":"remove","path":"/genders/0/shirt"},
+{"op":"remove","path":"/genders/1/shirt"},
+{"op":"remove","path":"/genders/0/pants"},
+{"op":"remove","path":"/genders/1/pants"},
+
+{"op":"add","path":"/genders/0/shirt","value":["glitchtier1chest"]},
+{"op":"add","path":"/genders/1/shirt","value":["glitchtier1chest"]},
+{"op":"add","path":"/genders/0/pants","value":["glitchtier1pants"]},
+{"op":"add","path":"/genders/1/pants","value":["glitchtier1pants"]}
+]
