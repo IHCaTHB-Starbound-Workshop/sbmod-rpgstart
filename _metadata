@@ -1,9 +1,9 @@
 {
   "author" : "isaac as THE HONEY BADGER",
-  "description" : "[h1]Lets go kill cactaur![/h1]\nThis mod removes all other starting outfit options in favor of the tier 1 armor of that race. Works for Vanilla races only.\n\nFind the server version on [url=https://github.com/IsaacHart/sbmod-spgstart]git[/url].\n\nLEAVE A COMMENT IF YOU\nlike the mod\nhate the mod\nfind an issue with the mod\ntake an issue with the mod\nhave a question about the mod\nhave a problem with the mod\nand especially\n[url=http://steamcommunity.com/workshop/filedetails/discussion/758570116/343785574524449496/][u][b]if you have a request[/b][/u][/url]",
+  "description" : "[h1]Lets go kill cactaur![/h1]\nThis mod removes all other starting outfit options in favor of the tier 1 armor of that race. Works for Vanilla races only.\n\nFind the server version on [url=https://github.com/IsaacHart/sbmod-rpgstart]git[/url].\n\nLEAVE A COMMENT IF YOU\nlike the mod\nhate the mod\nfind an issue with the mod\ntake an issue with the mod\nhave a question about the mod\nhave a problem with the mod\nand especially\n[url=http://steamcommunity.com/workshop/filedetails/discussion/758570116/343785574524449496/][u][b]if you have a request[/b][/u][/url]",
   "friendlyName" : "RPG Start!",
-  "link" : "steam://url/CommunityFilePage/758570116",
+  "link" : "https://github.com/IsaacHart/sbmod-rpgstart",
   "name" : "RPGSTA.IHC",
   "steamContentId" : "758570116",
-  "version" : "0.1"
+  "version" : "0.2"
 }
