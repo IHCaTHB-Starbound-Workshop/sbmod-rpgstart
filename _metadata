@@ -1,14 +1,16 @@
 {
   "author" : "isaac as THE HONEY BADGER",
+  "name" : "RPGSTA.IHC",
+  "version" : "1.0",
+  "friendlyName" : "RPG Start!",
+  "link" : "community.playstarbound.com/threads/124193/",
   "description" : "[h1]Lets go kill cactaur![/h1]
 This mod removes all other starting outfit options in favor of the tier 1 armor of that race. Works for Vanilla races only.
 
 [url=community.playstarbound.com/threads/124193/]MEGATHREAD[/url]
-Find the server version on [url=https://github.com/IsaacHart/sbmod-rpgstart]git.[/url]
+Find the server version on [url=https://github.com/IsaacHart/sbmod-rpgstart/releases/tag/1.0]git.[/url]
 [url=http://steamcommunity.com/workshop/filedetails/discussion/758570116/343785574524449496/]Request thread for this mod.[/url]",
-  "friendlyName" : "RPG Start!",
-  "link" : "community.playstarbound.com/threads/124193/",
-  "name" : "RPGSTA.IHC",
-  "steamContentId" : "758570116",
-  "version" : "0.1"
+  "requires" : [],
+  "includes" : [],
+  "steamContentId" : "758570116"
 }
